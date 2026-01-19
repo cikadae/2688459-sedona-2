@@ -3,7 +3,8 @@
 * Студент: [Артём Мартынов](https://up.htmlacademy.ru/htmlcss-individual/2/user/2688459).
 * Наставник: [Андрей
 Грачев](https://htmlacademy.ru/profile/angra).
-  Сайт: [Мой проект Седона](https://cikadae.github.io/2688459-sedona-2/)
+
+  Сайт: [Мой проект Седона](https://cikadae.github.io/2688459-sedona-2/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
