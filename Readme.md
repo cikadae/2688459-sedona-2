@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Артём](https://up.htmlacademy.ru/htmlcss-individual/2/user/2688459).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Грачёв]https://github.com/andreysgra.
 
 ---
 
